@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Fahim Faisal👦</h1>
 <h3 align="center">A self motivated MERN Stack developer</h3>
 
-(https://i.ibb.co/2qxMTGS/MERN-Stack-Developer-1.png)
+![A self motivated MERN Stack developer](https://i.ibb.co/2qxMTGS/MERN-Stack-Developer-1.png)
 
 I am currently studying in International Islamic University, Department of CSE, Honors final year. 
 I am very much passionate about web development and data science. 
