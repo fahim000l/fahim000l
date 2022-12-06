@@ -10,11 +10,11 @@ Here is my
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim000l&label=Profile%20views&color=0e75b6&style=flat" alt="fahim000l" /> </p>
 
-- 🔭 I’m currently working on MERN Stack Developer 
+- 🔭 I’m currently working on MERN Stack projects 
 - 🌱 I’m currently learning data science using machine learning and neural network 
-- 🤔 I’m looking for help with I am looking forward to be hired and currently eager to join as intern 
+- 🤔 I am looking forward to be hired and currently eager to join as intern 
 - 💬 Ask me about anything. I might not know the answer. But I know how to and where to find it. I will find the answer. 
-- 📫 How to reach me: You can reach me through email: (mdfahimfaisal000@gmail.com) 
+- 📫 You can reach me through email: (mdfahimfaisal000@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
