@@ -6,7 +6,7 @@
 I am currently studying in International Islamic University, Department of CSE, Honors final year. 
 I am very much passionate about web development and data science. 
 Currently, I am practicing MERN Stack projects and looking forward to be hired. 
-Here is my 
+Here is my [resume](https://drive.google.com/file/d/1eXb7YCSAqrtHN3YHUtsuKaik_nBHEzJk/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim000l&label=Profile%20views&color=0e75b6&style=flat" alt="fahim000l" /> </p>
 
