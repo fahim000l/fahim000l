@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/2qxMTGS/MERN-Stack-Developer-1.png" alt="banner" />
+  <img src="[https://i.ibb.co/2qxMTGS/MERN-Stack-Developer-1.png](https://ibb.co.com/twTZX90R)" alt="banner" />
 </p>
 
 ---
