@@ -29,8 +29,8 @@ https://drive.google.com/file/d/13DhtGgS9KoNIW-Ppi0WPU__eCMk-zuIW/view
 - Tailwind CSS, ShadCN  
 
 #### ⚙️ Backend
-- Node.js, Express.js, NestJS  
-- Python, FastAPI  
+- Fastapi, Sql Model
+- Nest js, TypeOrm, Prisma Orm
 - REST API Design & Architecture  
 
 #### 🗄️ Database
